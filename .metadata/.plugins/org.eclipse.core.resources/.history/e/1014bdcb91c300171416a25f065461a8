@@ -1,0 +1,11 @@
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("Kaczka biegnie po trawie");
+        System.out.println("Indyk biegnie po trawie");
+        
+	}
+
+}
